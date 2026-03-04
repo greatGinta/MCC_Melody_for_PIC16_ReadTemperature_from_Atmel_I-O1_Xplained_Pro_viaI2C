@@ -7,7 +7,7 @@ using **I2C communication** with PIC16, configured via MCC Melody.
 https://www.youtube.com/watch?v=gFbSqNg3Mng
 
 ## 🛠️ Tools & Hardware
-- MPLAB X IDE
+- MPLAB X IDE v6.25
 - MCC Melody
 - PIC16F18446
 - PICkit
