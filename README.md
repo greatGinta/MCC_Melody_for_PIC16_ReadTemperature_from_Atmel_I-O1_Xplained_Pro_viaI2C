@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=gFbSqNg3Mng
 - PIC16F18446
 - PICkit
 - Atmel I/O1 Xplained Pro
+- Terminal emulator (e.g. Tera Term, PuTTY)
 
 ## 📋 What it does
 - Reads temperature from the onboard sensor (AT30TSE758) via I2C
